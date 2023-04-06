@@ -1,5 +1,5 @@
 ### Hello👋!
-## I'm here to create amazing things.##
+## I'm here to create amazing things ##
 
 Welcome to my GitHub page! My name is **Vladislav Prokuda**, and I create awesome web applications and software. My passion for technology and constant drive to learn new programming languages and technologies help me create unique and innovative projects.
 
