@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello👋! I'm here to create amazing things.
 
-<!--
-**prokudavlad/prokudavlad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub page! My name is **Vladislav Prokuda**, and I create awesome web applications and software. My passion for technology and constant drive to learn new programming languages and technologies help me create unique and innovative projects.
 
-Here are some ideas to get you started:
+### My Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work with various programming languages such as Python, JavaScript, Ruby, and many others. I'm also familiar with a wide range of technologies including GCP, AWS, Docker, Kubernetes, Terraform, React, Vue, Angular, Node.js, and more. I enjoy working in a team and collaborating with other developers to create the best projects.
+
+### My Projects
+
+On my GitHub page, you can find my projects and see my work experience. My work covers various areas including web development, mobile applications, as well as desktop software. I always strive to create projects that are innovative, easy to use, and efficient.
+
+### Get in Touch
+
+If you have any questions or proposals, feel free to get in touch with me. I'm always open to new opportunities and ready to discuss any ideas. You can find my contact information in my profile. I'll be happy to chat and collaborate!
