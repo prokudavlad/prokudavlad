@@ -13,4 +13,4 @@ On my GitHub page, you can find my projects and see my work experience. My work 
 
 ### Get in Touch
 
-If you have any questions or proposals, feel free to get in touch with me. I'm always open to new opportunities and ready to discuss any ideas. You can find my contact information in my profile. I'll be happy to chat and collaborate!
+I'm always open to new opportunities and collaborations. If you have any questions or proposals, please don't hesitate to get in touch with me. You can find my contact information in my profile or connect with me on LinkedIn. I'm looking forward to hearing from you!
