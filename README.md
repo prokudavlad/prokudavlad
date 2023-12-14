@@ -20,3 +20,4 @@ Have a project in mind or just want to chat about technology? Feel free to reach
 
  - [LinkedIn](https://www.linkedin.com/in/vladyslav-prokuda-9774a0160)
  - [My Portfolio](https://prokudavlad.github.io/My-Portfolio/) 
+ - [Google Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles/2b848882-0606-411c-86b6-9688ea181c95)
