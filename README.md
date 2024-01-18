@@ -25,3 +25,15 @@ Have a project in mind or just want to chat about technology? Feel free to reach
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Prokuda_Vladyslav-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladyslav-prokuda-9774a0160/) 
+[![Mail Badge](https://img.shields.io/badge/-Prokuda_Vladyslav-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vladserg92@gmail.com)
+[![Static Badge](https://img.shields.io/badge/Cloud%20Skills%20Boost-%234285F4?style=plastic&logo=Google&logoColor=%234285F4&cacheSeconds=https%3A%2F%2F)](https://www.cloudskillsboost.google/public_profiles/2b848882-0606-411c-86b6-9688ea181c95/)
+
+###  My stats ⭐
+
+![Vladyslav's GitHub stats](https://github-readme-stats.vercel.app/api?username=prokudavlad&show_icons=true&theme=radical)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prokudavlad&&layout=compact)](https://github.com/prokudavlad/github-readme-stats)
+
+### Profile views counter 👁️‍🗨️
+[![Prokuda Vladyslav profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/prokudavlad)
