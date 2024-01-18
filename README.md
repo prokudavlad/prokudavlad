@@ -24,4 +24,4 @@ Have a project in mind or just want to chat about technology? Feel free to reach
 ### Connect with Me
 
 
-![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=LinkedIn&logoColor=%230A66C2&cacheSeconds=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvladyslav-prokuda-9774a0160)
+[![Linkedin Badge](https://img.shields.io/badge/-Prokuda_Vladyslav-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladyslav-prokuda-9774a0160/) 
